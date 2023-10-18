@@ -6,6 +6,7 @@ Izveidot number guessing spēli ar python programmēšanas valodu.
 Dators nejauši ģenerē 1 skaitli no 1-100, tad piedāvā spēlētājam uzzminēt to skaitli.
 
 Spēles loģika ir labi aprakstīta šajā kodā:
+
   import random
 
 repeat = True
